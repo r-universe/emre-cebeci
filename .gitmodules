@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "spatcovar"]
+	path = spatcovar
+	url = https://github.com/emre-cebeci/spatcovar
 [submodule "spatpersist"]
 	path = spatpersist
 	url = https://github.com/emre-cebeci/spatpersist
